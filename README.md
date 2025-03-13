@@ -1,1 +1,1 @@
-# Rahad
+Hi, I'm Abdul Aziz, a second-year Computer Science student at the University of Hertfordshire. I'm passionate about development work and currently expanding my skills in programming languages like Java, Python, and HTML, among others. I enjoy exploring tools and technologies that drive app development and innovation. As a quick learner with strong adaptability, I excel at multitasking and thrive in team environments. I'm eager to contribute to impactful projects where I can apply my skills and grow as a developer.
